@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.3</summary>**
+
+ - Better future compatibility with [Biodiversity](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/).
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.2</summary>**
 
  - Update to README.
