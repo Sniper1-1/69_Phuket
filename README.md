@@ -11,7 +11,9 @@ Adds a swampy (mostly) vanilla-like moon to Lethal Company. ([Discord link](http
 > **POPULATION:** Lost <br>
 > **CONDITIONS:** Swampy <br>
 > **FAUNA:** Ecosystem supports various wildlife.
-![View of quicksand and facility](https://imgur.com/EFGzaEa.png)
+![View of quicksand and facility](https://imgur.com/DphehIG.png)
+![View of canal and cabin](https://imgur.com/01p4REx.png)
+![View from hill](https://imgur.com/YLEqjQ9.png)
 
 </details>
 
