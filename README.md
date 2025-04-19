@@ -29,3 +29,4 @@ Adds a swampy (mostly) vanilla-like moon to Lethal Company. ([Discord link](http
 - Those that helped provide information on the modding Discord, mainly through the [LethalLevelLoader Discord](https://discord.com/channels/1168655651455639582/1193461151636398080) and [Dev-moons channel](https://discord.com/channels/1168655651455639582/1263331414271594538).
 - Debugging tools like [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [UnityExplorer](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/Yukieji_UnityExplorer/).
 - Thunderstore for hosting this mod as I wouldn't know how to distribute without it.
+- [Firefly particle tutorial](https://www.youtube.com/watch?v=9O5XU_jshBU).

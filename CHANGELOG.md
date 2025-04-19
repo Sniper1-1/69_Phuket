@@ -1,6 +1,19 @@
 
 ---
 
+**<details><summary>Version 0.1.6</summary>**
+
+ - Tweaked water/terrain to hopefully fix some odd collision with ice from [LethalElementsBeta](https://thunderstore.io/c/lethal-company/p/v0xx/LethalElementsBeta/).
+ - Added randomly placed bushes outside and inside (both configurable, both default:true).
+ - Added randomly placed Mimckets outside and inside (both configurable, both default:true).
+ - Added randomly placed Light Locusts outside and inside at night (both configurable, both default:true).
+ - Decorated cabins.
+ - Tweaked water bridge durrability. It's a bit weaker, and to compensate the ladders have been shifted a bit closer.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.5</summary>**
 
  - Icon updated.
