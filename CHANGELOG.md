@@ -1,6 +1,17 @@
 
 ---
 
+**<details><summary>Version 0.1.7</summary>**
+
+ - Added Giant Sapsucker spawn.
+ - Added moon video.
+ - Some tree tweaks.
+ - Changed box mesh.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.6</summary>**
 
  - Tweaked water/terrain to hopefully fix some odd collision with ice from [LethalElementsBeta](https://thunderstore.io/c/lethal-company/p/v0xx/LethalElementsBeta/).
