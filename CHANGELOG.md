@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.9</summary>**
+
+ - Fixed how trees break.
+
+</details>
+
+---
+
 **<details><summary>Version 0.1.8</summary>**
 
  - Added Universal Radar as a dependency because I forgot to do it earlier.
